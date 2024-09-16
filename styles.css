@@ -108,27 +108,6 @@ h2 {
     margin-bottom: 1rem;
 }
 
-#tratamentos-mais-procurados {
-    display: flex;
-    justify-content: center;
-    text-align: center;
-}
-
-#tratamentos-mais-procurados div {
-    margin: 10px;
-}
-
-#tratamentos-mais-procurados div#div-1 {
-    display: flex;
-    flex-direction: column;
-}
-
-#tratamentos-mais-procurados img {
-    width: 200px;
-    height: 200px;
-    border-radius: 50%;
-}
-
 form {
     display: flex;
     flex-direction: column;
