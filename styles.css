@@ -135,6 +135,38 @@ button:hover {
     background-color: #0a58ca;
 }
 
+#contato a{
+    text-decoration: none;
+    color: white;
+    background-color: #43DF5F;
+    padding: 20px 40px;
+    border-radius: 10px;
+    font-size: 22px;
+    font-weight: bolder;
+    transition: 0.5s;
+}
+
+#contato a:hover{
+    background-color: #36b64d;
+    
+}
+
+#contato i {
+    font-weight: bolder;
+}
+
+#localizacao {
+    width: 100vw;
+}
+
+#localizacao p {
+    text-align: center;
+}
+
+iframe {
+    width: 100vw;
+}
+
 footer {
     background-color: #0D6EFD;
     color: white;
